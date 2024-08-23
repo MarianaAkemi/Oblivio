@@ -3,7 +3,7 @@
 ###
 
 <div align = center>
-Oblivio está disponível para download <a href="https://akemi-vek.itch.io/oblivio">aqui</a> !<br><br>
+Oblivio está disponível para gameplay <a href="https://akemi-vek.itch.io/oblivio">aqui</a> !<br><br>
 Oblivio foi um jogo produzido em 2 dias para Next Level Game Jam - Edição 2, com o tema "Reconstrução"
 
 
