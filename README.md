@@ -19,10 +19,14 @@ As fases são simples, a personagem consegue andar para os lados, dar um salto n
 
 ![image](https://github.com/user-attachments/assets/5ce102f2-527c-4f75-b4eb-95b2d6745420)
 
+###
+
 <h2>Menu Pause</h2> <br>
 Durante as fases é possível pausar o jogo, oferecendo a opção de alterar o volume.<br><br>
 
 ![image](https://github.com/user-attachments/assets/6e69ebb7-a81c-4e57-a3b4-680ba1db2e3c)
+
+###
 
 <h2>Menu GameOver</h2>
 Quando a personagem perde suas 3 vidas, aparece o Menu de GameOver, que permite o jogador tentar novamente ou voltar ao menu
